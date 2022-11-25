@@ -25,7 +25,7 @@ SECRET_KEY = 'afzn(oczpt-x^l@5=t&0$cv9y%=ux7*-^jn)8+1gz1dalv65o4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
